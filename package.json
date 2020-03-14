@@ -1,0 +1,26 @@
+{
+  "name": "datadog-browser",
+  "version": "1.0.0",
+  "description": "datadog logging wrapper for javascript projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donovanclarke/datadog-browser.git"
+  },
+  "keywords": [
+    "datadog",
+    "browser-sdk"
+  ],
+  "author": "Donovan Clarke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donovanclarke/datadog-browser/issues"
+  },
+  "homepage": "https://github.com/donovanclarke/datadog-browser#readme",
+  "dependencies": {
+    "@datadog/browser-logs": "^1.7.1"
+  }
+}
